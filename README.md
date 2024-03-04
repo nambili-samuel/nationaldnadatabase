@@ -10,7 +10,7 @@
 - [Custodianship](#installation)
 - [DNA Collection](#usage)
 - [DNA Theft](#usage)
-- [Srem Cell](#usage)
+- [Stem Cell](#usage)
 - [Phenotype](#contributing)
 - [Biometrics](#license)
 - [Forensics](#license)
@@ -24,9 +24,10 @@
 
 ## Features
 
-- **Feature 1:** [Description of feature 1]
-- **Feature 2:** [Description of feature 2]
-- **Feature 3:** [Description of feature 3]
+- **Genetic Profiles:** [Description of feature 1]
+- **Search and Matching:** [Description of feature 2]
+- **Data Entry:** [Description of feature 3]
+- **Access Controls:** [Description of feature 4]
 
 ## Installation
 
