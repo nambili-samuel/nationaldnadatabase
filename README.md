@@ -8,12 +8,16 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Mission](#introduction)
+- [Vision](#features)
+- [Custodianship](#installation)
+- [DNA Collection](#usage)
+- [DNA Theft](#usage)
+- [Srem Cell](#usage)
+- [Phenotype](#contributing)
+- [Biometrics](#license)
+- [Forensics](#license)
+- [FAQs](#license)
 
 ## Introduction
 
