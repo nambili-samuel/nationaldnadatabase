@@ -24,10 +24,14 @@
 
 ## Features
 
-- **Genetic Profiles:** [Description of feature 1]
-- **Search and Matching:** [Description of feature 2]
-- **Data Entry:** [Description of feature 3]
-- **Access Controls:** [Description of feature 4]
+- **Genetic Profiles:** This feature allows users to create and manage genetic profiles, including storing genetic data, annotations, and metadata. Users can easily analyze and interpret genetic information for research and clinical purposes.
+
+- **Search and Matching:** The search and matching feature enables users to search and match genetic profiles based on specific criteria, such as genetic variants, phenotypic traits, or demographic information. This functionality helps researchers and clinicians identify relevant genetic profiles for their studies or patient care.
+
+- **Data Entry:** With the data entry feature, users can input and update genetic data, phenotypic information, and other relevant data fields. This feature ensures accurate and comprehensive data collection, facilitating robust genetic analysis and research.
+
+- **Access Controls:** Access controls allow administrators to manage user permissions and access levels within the system. This feature ensures data security and privacy by restricting access to sensitive genetic information based on user roles and permissions.
+
 
 ## Installation
 
