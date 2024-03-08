@@ -5,8 +5,6 @@
         <img src="https://www.zeroventiquattro.it/wp-content/uploads/2014/04/digitalitalia-1024x637.jpg" alt="Image" style="width: 1024px; height: 637px;">
     </div>
     <div style="overflow: hidden;">
-        <p>DNA From Genealogy And Biotechnology...</p>
-        <p>Additional text...</p>
     </div>
 </div>
 <p>A <a href="https://isogg.org/wiki/DNA_databases" target="_blank" rel="noopener">DNA database</a> is a computer-based system containing biological information, or '<a href="https://www.biodata.pt/" target="_blank" rel="noopener">Bio-data</a>,' regulated and maintained by the government or controlled by a private entity. This technology is a must-have tool in facilitating state machinery such as police, immigration, forensics, healthcare, and national security apparatus.</p>
