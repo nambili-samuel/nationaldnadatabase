@@ -73,6 +73,12 @@ Contributions are welcome! If you would like to contribute to [Project Name], pl
 
 For any questions or inquiries, please contact [Dr. Nambili Samuel] at [nambilisamuel@gmail.com].
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scrolling Image Logos Footer</title>
 <style>
   .footer {
     width: 100%;
@@ -103,3 +109,6 @@ For any questions or inquiries, please contact [Dr. Nambili Samuel] at [nambilis
     <!-- Add more logo images as needed -->
   </div>
 </div>
+
+</body>
+</html>
