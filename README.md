@@ -2,7 +2,7 @@
 
 <div style="overflow: hidden; clear: both;">
     <div style="float: left; margin-right: 10px;">
-        <img src="https://media.licdn.com/dms/image/C4D16AQE1xhrix16vOw/profile-displaybackgroundimage-shrink_350_1400/0/1579791110900?e=1715212800&v=beta&t=zHdMmeJLyUyL2lvcSPiyx_O0jQ4q7SuhYDNd5EiaNQE" alt="Image" style="width: 1400px; height: 350px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKkNWDmoIhhthzA2j__UCh3VFlJin7ykK9Ln2UzuOJ_patLOfJpRNAlTUafVcQTcXxxEO15Q29PDDkoqTxBn3thMWRgEK1PdSjQHOhFH0hbqXx7AaazsMjJkjd_dQ7gyxn-whv48qsEUuDdOAgkxHLmqspn4Uimfh74SkZ2bly32IiLcfdZbKEHcKtqdm/s1400/1579791110900.jpeg" alt="Image" style="width: 1400px; height: 350px;">
     </div>
     <div style="overflow: hidden;">
     </div>
