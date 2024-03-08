@@ -2,10 +2,10 @@
 
 <div style="overflow: hidden; clear: both;">
     <div style="float: left; margin-right: 10px;">
-        <img src="https://www.zeroventiquattro.it/wp-content/uploads/2014/04/digitalitalia-1024x637.jpg" alt="Image" style="width: 200px; height: 200px;">
+        <img src="https://www.zeroventiquattro.it/wp-content/uploads/2014/04/digitalitalia-1024x637.jpg" alt="Image" style="width: 1024px; height: 637px;">
     </div>
     <div style="overflow: hidden;">
-        <p>Caption text goes here...</p>
+        <p>DNA From Genealogy And Biotechnology...</p>
         <p>Additional text...</p>
     </div>
 </div>
