@@ -2,7 +2,7 @@
 
 <div style="overflow: hidden; clear: both;">
     <div style="float: left; margin-right: 10px;">
-        <img src="https://www.zeroventiquattro.it/wp-content/uploads/2014/04/digitalitalia-1024x637.jpg" alt="Image" style="width: 1024px; height: 637px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_bmFbsSvEeqDtCPLffywEIZNe1vB62r9dZaVJ0thDC4d2swZcjjHXE0GngbPFpo5h2xytzOrIZFH2d1VKMox1l0I5P3HJSjAUrpwEPmbSMfKsTDQaplPG3DmnEh1SSMslkXrXXqqDWmh6HqHf8a-eLRLGEhOhT5gJrxhkOY7v48v2Y-Q3hSqTQF9ymYZN/s16000/chrom-DNA.jpg" alt="Image" style="width: 1024px; height: 637px;">
     </div>
     <div style="overflow: hidden;">
     </div>
