@@ -72,3 +72,34 @@ Contributions are welcome! If you would like to contribute to [Project Name], pl
 ---
 
 For any questions or inquiries, please contact [Dr. Nambili Samuel] at [nambilisamuel@gmail.com].
+
+<style>
+  .footer {
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .scrolling-wrapper {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .scrolling-wrapper img {
+    width: auto;
+    height: 50px; /* Adjust the height of the logos as needed */
+    margin: 0 10px; /* Adjust the spacing between logos as needed */
+  }
+</style>
+</head>
+<body>
+
+<div class="footer">
+  <div class="scrolling-wrapper">
+    <img src="logo1.png" alt="Logo 1">
+    <img src="logo2.png" alt="Logo 2">
+    <img src="logo3.png" alt="Logo 3">
+    <!-- Add more logo images as needed -->
+  </div>
+</div>
