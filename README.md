@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Mission](#introduction)
+- [Mission](https://github.com/nambilisamuel/National-DNA-Database/wiki#mission)
 - [Vision](#features)
 - [Custodianship](#installation)
 - [DNA Collection](#usage)
