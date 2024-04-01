@@ -9,11 +9,6 @@
 </div>
 <p>A <a href="https://isogg.org/wiki/DNA_databases" target="_blank" rel="noopener">DNA database</a> is a computer-based system containing biological information, or '<a href="https://www.biodata.pt/" target="_blank" rel="noopener">Bio-data</a>,' regulated and maintained by the government or controlled by a private entity. This technology is a must-have tool in facilitating state machinery such as police, immigration, forensics, healthcare, and national security apparatus.</p>
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/HYscQxvvDRM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 <p>This system has scored high in countries that have already deployed DNA technology in efforts for crime prevention, analysis, monitoring, investigations, deterrence, and identification. Today, many countries worldwide are turning to DNA technologies, including <a href="https://visitnamibia.com.na/" target="_blank" rel="noopener">Namibia</a>'s neighboring nations such as Botswana, South Africa, and Tanzania, which are planning to establish their centers.</p> <p>The benefits of using a DNA database outweigh the gravity of the negatives and common skepticism posited by several civil activists. While the technology may be perceived as an invasion of privacy, its implementation seeks to combat crime and act as a deterrence.</p>
 
 ## Table of Contents
