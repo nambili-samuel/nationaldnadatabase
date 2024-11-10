@@ -1,7 +1,6 @@
 # National DNA Database
 
-![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKkNWDmoIhhthzA2j__UCh3VFlJin7ykK9Ln2UzuOJ_patLOfJpRNAlTUafVcQTcXxxEO15Q29PDDkoqTxBn3thMWRgEK1PdSjQHOhFH0hbqXx7AaazsMjJkjd_dQ7gyxn-whv48qsEUuDdOAgkxHLmqspn4Uimfh74SkZ2bly32IiLcfdZbKEHcKtqdm/s1400/1579791110900.jpeg))
-
+![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKkNWDmoIhhthzA2j__UCh3VFlJin7ykK9Ln2UzuOJ_patLOfJpRNAlTUafVcQTcXxxEO15Q29PDDkoqTxBn3thMWRgEK1PdSjQHOhFH0hbqXx7AaazsMjJkjd_dQ7gyxn-whv48qsEUuDdOAgkxHLmqspn4Uimfh74SkZ2bly32IiLcfdZbKEHcKtqdm/s1400/1579791110900.jpeg)
 
 <p>A <a href="https://isogg.org/wiki/DNA_databases" target="_blank" rel="noopener">DNA database</a> is a computer-based system containing biological information, or '<a href="https://www.biodata.pt/" target="_blank" rel="noopener">Bio-data</a>,' regulated and maintained by the government or controlled by a private entity. This technology is a must-have tool in facilitating state machinery such as police, immigration, forensics, healthcare, and national security apparatus.</p>
 
