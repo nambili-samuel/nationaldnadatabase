@@ -1,15 +1,8 @@
 # National DNA Database
 
-![Image Description](https://fullmeasure.news/resources/media/fc1a2043-2abb-4b7f-99b4-04e784892591-jumbo3x1_76765cc9f2084332934c0b9a8162016flarge16x9_rsz_dna_database_mon_rehearsal.jpg?1533664052227)
+![Image Description](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKkNWDmoIhhthzA2j__UCh3VFlJin7ykK9Ln2UzuOJ_patLOfJpRNAlTUafVcQTcXxxEO15Q29PDDkoqTxBn3thMWRgEK1PdSjQHOhFH0hbqXx7AaazsMjJkjd_dQ7gyxn-whv48qsEUuDdOAgkxHLmqspn4Uimfh74SkZ2bly32IiLcfdZbKEHcKtqdm/s1400/1579791110900.jpeg))
 
 
-<div style="overflow: hidden; clear: both;">
-    <div style="float: left; margin-right: 10px;">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKkNWDmoIhhthzA2j__UCh3VFlJin7ykK9Ln2UzuOJ_patLOfJpRNAlTUafVcQTcXxxEO15Q29PDDkoqTxBn3thMWRgEK1PdSjQHOhFH0hbqXx7AaazsMjJkjd_dQ7gyxn-whv48qsEUuDdOAgkxHLmqspn4Uimfh74SkZ2bly32IiLcfdZbKEHcKtqdm/s1400/1579791110900.jpeg" alt="Image" style="width: 1400px; height: 320px;">
-    </div>
-    <div style="overflow: hidden;">
-    </div>
-</div>
 <p>A <a href="https://isogg.org/wiki/DNA_databases" target="_blank" rel="noopener">DNA database</a> is a computer-based system containing biological information, or '<a href="https://www.biodata.pt/" target="_blank" rel="noopener">Bio-data</a>,' regulated and maintained by the government or controlled by a private entity. This technology is a must-have tool in facilitating state machinery such as police, immigration, forensics, healthcare, and national security apparatus.</p>
 
 <p>This system has scored high in countries that have already deployed DNA technology in efforts for crime prevention, analysis, monitoring, investigations, deterrence, and identification. Today, many countries worldwide are turning to DNA technologies, including <a href="https://visitnamibia.com.na/" target="_blank" rel="noopener">Namibia</a>'s neighboring nations such as Botswana, South Africa, and Tanzania, which are planning to establish their centers.</p> <p>The benefits of using a DNA database outweigh the gravity of the negatives and common skepticism posited by several civil activists. While the technology may be perceived as an invasion of privacy, its implementation seeks to combat crime and act as a deterrence.</p>
