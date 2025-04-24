@@ -34,37 +34,6 @@
 - **Data Entry:** With the data entry feature, users can input and update genetic data, phenotypic information, and other relevant data fields. This feature ensures accurate and comprehensive data collection, facilitating robust genetic analysis and research.
 
 - **Access Controls:** Access controls allow administrators to manage user permissions and access levels within the system. This feature ensures data security and privacy by restricting access to sensitive genetic information based on user roles and permissions.
-
-
-## Installation
-
-To install [Project Name], follow these steps:
-
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-
-## Usage
-
-[Project Name] can be used for [describe potential use cases or scenarios where the project can be applied]. To get started, follow these instructions:
-
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to [Project Name], please follow these guidelines:
-
-- Fork the repository
-- Create a new branch
-- Make your changes
-- Submit a pull request
-
-## License
-
-[Project Name] is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more information.
-
 ---
 
 For any questions or inquiries, please contact [Dr. Nambili Samuel] at [nambilisamuel@gmail.com].
